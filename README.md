@@ -5,7 +5,7 @@ This repository contains the code for the paper "Clinical Correlates of Pain Int
 ## Repository Structure
   
 - **1.Data_analyze.ipynb**
-  - Jupyter notebook for data preprocessing. This includes loading the clinical and MRI readout data, handling missing values, and dividing patients into acute and chronic TMD groups.
+  - Jupyter notebook for data preprocessing. This includes loading the clinical and MRI readout data, dividing patients into acute and chronic TMD groups.
 
 - **README.md**
   - This file. Provides an overview of the project and instructions for use.
